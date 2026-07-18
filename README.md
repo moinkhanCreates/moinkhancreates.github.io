@@ -8,24 +8,12 @@ A production-grade, FAANG-level portfolio website built with semantic HTML5, mod
 
 ## 🚀 Quick Start
 
-### Option 1: GitHub Pages (Recommended — Free Forever)
+###  GitHub Pages 
 1. Create a new repository on GitHub (e.g., `moinkhan-create.github.io`)
 2. Upload all files from this folder to the repository
 3. Go to **Settings → Pages → Source** and select `main` branch
 4. Your portfolio will be live at `https://moinkhan-create.github.io`
 
-### Option 2: Netlify (Drag & Drop)
-1. Go to [netlify.com](https://netlify.com) and sign up (free)
-2. Drag and drop this entire folder into the deploy area
-3. Get a free `.netlify.app` domain or connect your custom domain
-
-### Option 3: Vercel
-1. Install Vercel CLI: `npm i -g vercel`
-2. Run `vercel` in this folder
-3. Follow prompts — deployed instantly
-
-### Option 4: Local Preview
-Simply open `index.html` in any modern browser. No build step required.
 
 ---
 
